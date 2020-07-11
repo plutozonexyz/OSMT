@@ -7,6 +7,18 @@ OSMT (Open-Source Meme Toolkit) is a list of resources such as free-as-in-freedo
 ## Why?
 I came up with the idea while browsing r/linuxmemes. "What if you could make a meme that is entirley based upon almost entirley free materials, like free and open source software?" 
 
+Though it's practically impossible to create a meme through completley open components which are either licensed under libre licenses or are in the public domain, it's fun to see how far you can get with making it as "free" as possible.
+
+## Definitions of the Types of Memes
+There are certain types of memes that can vary on the level of openness it posseses.
+
+Proprietary Memes - These contain not only the center of the joke being from a copyrighted movie or image or something of the likes, but it also includes proprietary fonts like Impact and was most likely created using a closed-source "meme generator".
+
+Proprietary with Libre Components - These types may vary, but they typically are created using a FOSS image manipulator like GIMP, and can contain free-as-in-freedom fonts like the ones mentioned.
+
+Full-on Libre - This means that the meme was created using free fonts, a non-proprietary image creator, a royalty-free/public-domain centerpiece, and other components like if the image is distributed under, let's say, a Creative Commons license.
+
+
 ## Well, where's the material?
 Below is the material. The format showcasing the material goes in a certain way:
 
@@ -20,11 +32,13 @@ OFL - League Gothic - Impact-like font - https://www.theleagueofmoveabletype.com
 
 OFL - Anton - Impact-like font - https://fonts.google.com/specimen/Anton
 
+OFL - Lato - Arial-like font for more "modern" memes - https://fonts.google.com/specimen/Lato
 
 ### Image Processing Applications
 GPLv3+ - GNU Image Manipulation Program - Free/Libre image editor with many tools included - https://gimp.org/
 
 
 
-This repository was just made recently. More material will be added soon.
+
+This repository was just made recently. More material may be added soon.
 
