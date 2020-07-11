@@ -37,8 +37,9 @@ OFL - Lato - Arial-like font for more "modern" memes - https://fonts.google.com/
 ### Image Processing Applications
 GPLv3+ - GNU Image Manipulation Program - Free/Libre image editor with many tools included - https://gimp.org/
 
+### Licenses
+You can most likely use any license, though some may use a poor choice of words considering that most are targeted towards software and not "works of art". Therefore I reccomend the Creative Commons license maker, in which you can specify certain parts of the license and then you can put the small Creative Commons license watermark onto the corner of the image or anywhere else. It is also reccomended to put a username as a second watermark so you may claim your work if it is truly libre and contains no copyrighted components.
 
 
-
-This repository was just made recently. More material may be added soon.
-
+## The rest?
+This repository was just made recently. More materials and info may be added soon.
