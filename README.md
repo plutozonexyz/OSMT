@@ -34,6 +34,9 @@ OFL - Anton - Impact-like font - https://fonts.google.com/specimen/Anton
 
 OFL - Lato - Arial-like font for more "modern" memes - https://fonts.google.com/specimen/Lato
 
+### Emojis
+MIT - Twemoji - Twitter's open source emojis - https://twemoji.twitter.com/
+
 ### Image Processing Applications
 GPLv3+ - GNU Image Manipulation Program - Free/Libre image editor with many tools included - https://gimp.org/
 
