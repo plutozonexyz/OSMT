@@ -40,7 +40,7 @@ MIT - Twemoji - Twitter's open source emojis - https://twemoji.twitter.com/
 ### Image Processing Applications
 GPLv3+ - GNU Image Manipulation Program - Free/Libre image editor with many tools included - https://gimp.org/
 
-## Public-Domain Images
+### Public-Domain Images
 Many under CC0 - Free Images - Millions of public domain stock images and clipart - https://free-images.com/
 
 ### Licenses
